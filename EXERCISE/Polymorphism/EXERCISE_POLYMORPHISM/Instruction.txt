@@ -1,0 +1,9 @@
+Exercise
+
+Now, as Jin is not strong enough to face Khotun Khan, he retreats to gather allies. However, in his search for allies, he encounters a group of Mongol soldier, our villains. A villain has 50% chance of feeing the battlefield if his hit points dropped to 50 or below.
+
+In each turn, Jin will randomly attack one of the remaining villains while each of the villains will attack Jin once. The game is over if Jin dies or all the villains either die or flee the battlefield.
+
+Mongol soldier have different ways to attack Jin. An archer will shoot arrows at Jin. A swordsman will slash Jin. And a spearman will thrust Jin. The rest of the rules are still the same with the previous statement.
+
+Implement these new rules to your code!
