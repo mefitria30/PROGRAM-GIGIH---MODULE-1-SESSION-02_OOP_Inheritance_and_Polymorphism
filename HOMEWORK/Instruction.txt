@@ -1,0 +1,7 @@
+Homework
+
+Jin has now finally found his allies: Yuna and Sensei Ishikawa. Together, the three of them start to fight the Mongols in their camps.
+
+Up to this point, you can't control what Jin does. Now, in the beginning of each turn, you can control whether Jin will attack the enemy or heal an ally. However, you can't control Jin's allies, in each turn they will randomly attack one of the villains. Likewise, in each turn, each villain will randomly attack one of our heroes.
+
+The rest of the rules is still the same.
